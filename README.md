@@ -11,6 +11,6 @@ API RESTful em Java, que permite gerenciar um catálogo de filmes. Incluindo fun
  * Lombok: Biblioteca usada para reduzir a boilerplate code, como getters e setters automáticos.
 
 ## Funcionalidades
-* Crud de filmes: Criar, ler, atualizar, deletar e registros de filmes;
+* Crud de filmes: Criar, ler, atualizar, deletar os registros de filmes;
 * Avaliação de Filmes: Permite avaliar filmes no catálogo.
 * Recomendação de Filmes Não Avaliados: Lista filmes que ainda não foram avaliados.
